@@ -3,18 +3,20 @@
     <channel>
         <title>CapyBar</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Thu, 20 Aug 2026 17:50:21 -0300</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Thu, 20 Aug 2026 20:32:54 -0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in CapyBar 1.0.1</h2>
+            <description><![CDATA[<h2>What's new in CapyBar 1.0.2</h2>
 <ul>
-  <li>Eyes, nose, and mouth stay black on the capybara, and flip to white only when the body color is too dark to read.</li>
-  <li>Sampling and menu bar redraws use less CPU while CapyBar stays open all day.</li>
+  <li>Thermal pressure is now a Cool / Fair / Stressed pill, and it can change the capybara when the Mac actually heats up.</li>
+  <li>The icon color follows the average of the stats you track, so one metric near a threshold no longer paints the whole capy yellow.</li>
+  <li>Disk and network stay out of the icon color unless you turn them on.</li>
+  <li>Settings uses a two-column card layout that fills the window.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.1/CapyBar-1.0.1.zip" length="1502272" type="application/octet-stream" sparkle:edSignature="Hmk0spADLI7HwQWvbZGfVIa5pYrcQHnGDqSgLE4calMNtdsgDqwL9kXHjBZLe+rTYFpuW0PhIx4Q30PXZgnRCA=="/>
+            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.2/CapyBar-1.0.2.zip" length="1524590" type="application/octet-stream" sparkle:edSignature="nYKjZxXgPULJ79nM6f/7PR0QvBQvswnf7uXsE4YXIl17O9yz7/7Ar3qPf0OS4HVRHybpE9UmLya0HBXg9+yJDQ=="/>
         </item>
     </channel>
 </rss>
