@@ -3,18 +3,18 @@
     <channel>
         <title>CapyBar</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 20 Aug 2026 15:08:23 -0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Thu, 20 Aug 2026 17:50:21 -0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in CapyBar 1.0.0</h2>
+            <description><![CDATA[<h2>What's new in CapyBar 1.0.1</h2>
 <ul>
-  <li>First signed and notarized build you can share without Gatekeeper warnings.</li>
-  <li>Automatic updates through Sparkle, so later versions install from the menu bar.</li>
+  <li>Eyes, nose, and mouth stay black on the capybara, and flip to white only when the body color is too dark to read.</li>
+  <li>Sampling and menu bar redraws use less CPU while CapyBar stays open all day.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.0/CapyBar-1.0.0.zip" length="1479529" type="application/octet-stream" sparkle:edSignature="TD3NqNbiwI9ZPwRD5u2dwFT/CRhLJ7aMiU8MKrdwNPJbIWzlTe/96zyLTQVL1tPlaySAqp/ABajQnFZBDIDUCQ=="/>
+            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.1/CapyBar-1.0.1.zip" length="1502272" type="application/octet-stream" sparkle:edSignature="Hmk0spADLI7HwQWvbZGfVIa5pYrcQHnGDqSgLE4calMNtdsgDqwL9kXHjBZLe+rTYFpuW0PhIx4Q30PXZgnRCA=="/>
         </item>
     </channel>
 </rss>
