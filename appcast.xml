@@ -3,18 +3,17 @@
     <channel>
         <title>CapyBar</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Thu, 20 Aug 2026 20:49:39 -0300</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Thu, 20 Aug 2026 20:59:23 -0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in CapyBar 1.0.3</h2>
+            <description><![CDATA[<h2>What's new in CapyBar 1.0.4</h2>
 <ul>
-  <li>The menu bar can show the average of CPU and Memory, next to the existing per-metric numbers.</li>
-  <li>When the capybara is Stressed, the mouth turns down and a small sweat drop appears.</li>
+  <li>The stressed sweat drop now has a rounded bottom, matching the landing page.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.3/CapyBar-1.0.3.zip" length="1529812" type="application/octet-stream" sparkle:edSignature="XaUpdiXCFUveeRZK5vyHFSZPbOQcVarxr7lUvXkVvNCG5uHPG5G3jniDgI9iEL6u7kf2zkPi4cNqLSBmLH3rCw=="/>
+            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.4/CapyBar-1.0.4.zip" length="1530302" type="application/octet-stream" sparkle:edSignature="BnAhbmPP0FowOjBPSNFXDUg4Q9k40vhw7VQPWLU+8KqQN9JHSaq5lRyaWSOVb/yQTcyz4vwsthdS4qo6JTpBCA=="/>
         </item>
     </channel>
 </rss>
