@@ -3,17 +3,19 @@
     <channel>
         <title>CapyBar</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Thu, 20 Aug 2026 21:59:27 -0300</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Fri, 21 Aug 2026 03:53:40 -0300</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in CapyBar 1.0.5</h2>
+            <description><![CDATA[<h2>What's new in CapyBar 1.0.6</h2>
 <ul>
-  <li>The dashboard now opens just below the menu bar icon, instead of covering the bar.</li>
+  <li>Idle CPU usage is much lower. The dashboard is torn down when the menu closes, so it no longer redraws in the background.</li>
+  <li>The panel stays readable when a bright window is behind it.</li>
+  <li>Clicking outside the dashboard now closes it.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.5/CapyBar-1.0.5.zip" length="1531793" type="application/octet-stream" sparkle:edSignature="YGrWXs3Krb4tavpkYYmkSGv/SmiMczW6Bten3+iXfVFUpHTYosysVnGZawNck3JRj9ynyMhT0D+JT+bajxYBBw=="/>
+            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.6/CapyBar-1.0.6.zip" length="1544310" type="application/octet-stream" sparkle:edSignature="Pc/xxr00+n5til1Fp1iEa6qk2y76fZDEQr0mSvq2NdS+9gydK0xpXhhYDfiKuX651mSNyLTteD2I77elMiYnCQ=="/>
         </item>
     </channel>
 </rss>
