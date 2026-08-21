@@ -3,17 +3,17 @@
     <channel>
         <title>CapyBar</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Thu, 20 Aug 2026 20:59:23 -0300</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.0.5</title>
+            <pubDate>Thu, 20 Aug 2026 21:59:27 -0300</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in CapyBar 1.0.4</h2>
+            <description><![CDATA[<h2>What's new in CapyBar 1.0.5</h2>
 <ul>
-  <li>The stressed sweat drop now has a rounded bottom, matching the landing page.</li>
+  <li>The dashboard now opens just below the menu bar icon, instead of covering the bar.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.4/CapyBar-1.0.4.zip" length="1530302" type="application/octet-stream" sparkle:edSignature="BnAhbmPP0FowOjBPSNFXDUg4Q9k40vhw7VQPWLU+8KqQN9JHSaq5lRyaWSOVb/yQTcyz4vwsthdS4qo6JTpBCA=="/>
+            <enclosure url="https://github.com/GabrielFagundes/capybar-releases/releases/download/v1.0.5/CapyBar-1.0.5.zip" length="1531793" type="application/octet-stream" sparkle:edSignature="YGrWXs3Krb4tavpkYYmkSGv/SmiMczW6Bten3+iXfVFUpHTYosysVnGZawNck3JRj9ynyMhT0D+JT+bajxYBBw=="/>
         </item>
     </channel>
 </rss>
